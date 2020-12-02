@@ -33,4 +33,5 @@ Then **latitude and longitude** will display on the screen.<br>
 
 ## Drone animation copyrights<a name="Drone"/>
 
-Drone animation fully copyrights goes to **Ivan Odintsov** from CodePen. (https://codepen.io/infinitemonkeys/pen/NWrLymb) Original by **Gal Shir** (https://dribbble.com/shots/3407631-Drone). Thank you sooo much for the creative animation design.❤️❤️
+Drone animation fully copyrights goes to **Ivan Odintsov** from CodePen. (https://codepen.io/infinitemonkeys/pen/NWrLymb)<br>
+Original by **Gal Shir** (https://dribbble.com/shots/3407631-Drone). Thank you sooo much for the creative animation design.❤️❤️
