@@ -20,7 +20,7 @@ Just simple..!! You can get your current location from latitude and longitude.<b
 - CSS
 - JavaScript
 
-## How to used this?<a name="How"/>
+## How to use this?<a name="How"/>
 
 First click the **Get your current location** button.<br>
 <img src="img/a.PNG">
